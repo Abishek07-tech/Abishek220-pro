@@ -1,116 +1,170 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:0d1117&height=220&section=header&text=ABISHEK%20👋&fontSize=55&fontColor=00aaff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Break%20%E2%80%A2%20Learn&descAlignY=60&descSize=18&descColor=ffffff"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00AAFF&center=true&vCenter=true&width=650&lines=Building+Real+Things+%F0%9F%9A%80;Learning+DSA+%F0%9F%A7%A0;Full+Stack+in+Progress+%F0%9F%92%BB;Exploring+Cybersecurity+%F0%9F%94%90;One+Commit+at+a+Time+%E2%9A%A1"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Abishek220-pro&color=0066ff&style=flat-square&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-## ⚡ About
-
-```text
-🎓 Computer Science Student
-💻 Full Stack Developer in Progress
-🧠 DSA • Problem Solving • Computer Science
-🔐 Exploring Cybersecurity
-🚀 Building projects and learning by doing
-```
-
-I like understanding **how things work**, building them myself, breaking them,
-and improving them.
-
-> **Learn → Build → Break → Fix → Repeat.**
-
----
-
-## 🧠 Currently Building My Skills
 
 <div align="center">
 
-### 💻 Development
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=170&section=header&text=Abishek&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Builder&descSize=15&descAlignY=65&descColor=8b949e"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql"/>
-
-### 🧩 Problem Solving
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python"/>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-| Focus            | What I'm Doing                                      |
-| ---------------- | --------------------------------------------------- |
-| 💻 Full Stack    | Building web applications                           |
-| 🧠 DSA           | Solving problems & learning patterns                |
-| 🔐 Cybersecurity | Exploring security concepts                         |
-| ⚙️ Backend       | APIs, databases & system design                     |
-| 🐧 Linux         | Learning and customizing my development environment |
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Abishek220-pro/Full-Stack-Journey">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abishek220-pro&repo=Full-Stack-Journey&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Abishek07-tech">
+<img src="https://komarev.com/ghpvc/?username=Abishek07-tech&style=flat-square&color=238636&label=PROFILE+VIEWS"/>
 </a>
 
-<a href="https://github.com/Abishek220-pro/DSA-Patterns">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abishek220-pro&repo=DSA-Patterns&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Abishek07-tech?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abisheksivakumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 📈 GitHub
+<table>
+<tr>
+<td width="35%" valign="top">
+
+## About Me
+
+<img width="100%" src="https://github.com/Abishek07-tech.png" />
+
+**Abishek**
+
+Computer Science Student
+
+- Software Engineering
+- Backend Development
+- AI Engineering
+- Infrastructure
+
+[GitHub Profile](https://github.com/Abishek07-tech)
+
+</td>
+<td width="65%" valign="top">
+
+## GitHub Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abishek07-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950&include_all_commits=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek07-tech&theme=github-dark-blue&hide_border=true&background=0D1117" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abishek220-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+**Programming Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek220-pro&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp&theme=dark"/>
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark"/>
+
+**Backend Development**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,mongodb,redis&theme=dark"/>
+
+**Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## Current Focus
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abishek220-pro/Abishek220-pro/output/github-contribution-grid-snake-dark.svg"/>
+| Domain | Learning & Building |
+|:---|:---|
+| DSA | Algorithms, problem solving, complexity |
+| Core Java | JVM, OOP, Collections, Multithreading |
+| Java Full Stack | Spring Boot, React, PostgreSQL |
+| AI Engineering | LLMs, RAG, AI Agents |
+| Infrastructure | Linux, Docker, Cloud Engineering |
+| Computer Science | OS, DBMS, Networks, System Design |
 
 </div>
 
 ---
 
+## Featured Projects
+
 <div align="center">
 
-### 🌌 Keep Building.
+<a href="https://github.com/Abishek07-tech/Abishek220-pro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abishek07-tech&repo=Abishek220-pro&theme=github_dark&hide_border=true"/>
+</a>
 
-**Code something. Break something. Learn something.**
-
-<br>
-
-<a href="https://github.com/Abishek220-pro">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00aaff"/>
+<a href="https://github.com/Abishek07-tech?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:0d1117&height=100&section=footer"/>
+---
+
+## Coding Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek07-tech&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</div>
+
+---
+
+## Most Used Languages
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek07-tech&layout=compact&theme=github_dark&hide_border=true&langs_count=10"/>
+
+</div>
+
+---
+
+## Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/238636/Abishek07-tech" width="100%" alt="GitHub Contribution Calendar"/>
+
+</div>
+
+---
+
+## My Philosophy
+
+<div align="center">
+
+### Learn → Understand → Build → Break → Improve
+
+I don't just want to write code.
+
+I want to understand how software works internally,
+design reliable systems, and build products that solve real problems.
+
+**Consistency over motivation. Engineering over shortcuts.**
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+<a href="https://github.com/Abishek07-tech">
+<img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
+
+</div>
